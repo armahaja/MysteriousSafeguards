@@ -1,0 +1,11 @@
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+C:\Users\Arun Kumar Mahajan\source\repos\Practice\Practice\obj\Debug\netcoreapp2.1\Practice.pdb
